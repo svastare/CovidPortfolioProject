@@ -11,7 +11,7 @@ This repository contains my Tableau dashboard analyzing global COVID-19 trends, 
 
 ## 📷 Preview
 
-![Dashboard Screenshot] (Covid%20Tableau%20Dashboard.png)
+![Dashboard Screenshot](Covid%20Tableau%20Dashboard.png)
 
 ## 📊 Key Insights
 - **Total and daily COVID-19 cases and deaths**
