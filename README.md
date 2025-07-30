@@ -9,9 +9,6 @@ This repository contains my Tableau dashboard analyzing global COVID-19 trends, 
 ## 🌐 Live Dashboard
 [Click here to view the published dashboard on Tableau Public](https://public.tableau.com/app/profile/siddhartha.rao.vastare.subramanya/viz/CovidDashboard_17538476155560/Dashboard1?publish=yes)
 
-## 📷 Preview
-
-![Dashboard Screenshot](Covid%20Tableau%20Dashboard.png)
 
 ## 📊 Key Insights
 - **Total and daily COVID-19 cases and deaths**
